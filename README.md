@@ -6,4 +6,4 @@ The tensorflow implementation is available here--[STNE.rar](http://dm.nankai.edu
 
 ## Framework   
 An overview of STNE:   
-
+<img src='https://github.com/cherisyu/STNE/blob/master/data/stne.png' width="150" height="150" alt="图片加载失败时，显示这段字"/>
