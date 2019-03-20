@@ -13,5 +13,5 @@ An overview of STNE:
 python 3.6 + torch 1.0.1      
 
 ## Experiment Results   
-<div align=center><img src='https://github.com/cherisyu/STNE/blob/master/data/stne_exp.png' width="650" height="150" alt="图片加载失败时，显示这段字"/></div>    
+<div align=center><img src='https://github.com/cherisyu/STNE/blob/master/data/stne_exp.png' width="450" height="150" alt="图片加载失败时，显示这段字"/></div>    
 
