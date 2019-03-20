@@ -7,5 +7,10 @@ The tensorflow implementation is available here--[STNE.rar](http://dm.nankai.edu
 ## Framework   
 An overview of STNE:   
 <div align=center><img src='https://github.com/cherisyu/STNE/blob/master/data/stne.png' width="650" height="250" alt="图片加载失败时，显示这段字"/>   
-<div align=center><img src='https://github.com/cherisyu/STNE/blob/master/data/stne_2.png' width="650" height="250" alt="图片加载失败时，显示这段字"/>
+
+## Requirements   
+python 3.6 + torch 1.0.1   
+
+## Experiment Results   
+<div align=center><img src='https://github.com/cherisyu/STNE/blob/master/data/stne_exp.png' width="650" height="250" alt="图片加载失败时，显示这段字"/> 
 
